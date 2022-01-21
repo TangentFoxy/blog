@@ -14,14 +14,14 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: TangentFoxy/blog
+  github: TangentFoxy
   instagram:
   linkedin:
   pinterest:
-  rss: rss
+  rss: true
   twitter: TangentFoxy
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/guard13007
+  youtube: guard13007
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 disqus:
