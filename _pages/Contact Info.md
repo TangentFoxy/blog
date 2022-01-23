@@ -9,11 +9,11 @@ order: 20
 
 Links ordered by where you are most likely to be able to reach me quickest:
 
-[Telegram](https://t.me/TangentFox): @TangentFox
-[Twitter](https://twitter.com/tangentfoxy): @TangentFoxy
-[Email](mailto:tangentfoxy@gmail.com): rose@tangentfox.com
-[Mastodon](https://vulpine.club/@rose): @rose@vulpine.club
-[Itch.io](https://itch.io/profile/tangentfox): TangentFox
+[Telegram](https://t.me/TangentFox): @TangentFox  
+[Twitter](https://twitter.com/tangentfoxy): @TangentFoxy  
+[Email](mailto:tangentfoxy@gmail.com): rose@tangentfox.com  
+[Mastodon](https://vulpine.club/@rose): @rose@vulpine.club  
+[Itch.io](https://itch.io/profile/tangentfox): TangentFox  
 [Discord](https://discord.gg/UBehCVN): Tangent#7123
 
 (Contact info is also listed on [my old website](https://guard13007.com/contact).)
