@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
+    {{ page.date | date: "%Y-%m-%d" }}{% if page.modified %} (Updated: {{ page.modified | date: "%Y-%m-%d" }}){% endif %}
   </div>
 
   {% include disqus.html %}
