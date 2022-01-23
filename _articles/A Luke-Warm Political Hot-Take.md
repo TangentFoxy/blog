@@ -4,8 +4,7 @@ date: 2021-02-25 16:50:00 -0800
 modified: 
 permalink: /a-luke-warm-political-hot-take/
 category: Uncategorized
-blags: [California, death penalty, Donald Trump, election, gun control, Hilary Clinton, politics, prisons, USA]
-tags: writing/blog/published
+tags: [California, death penalty, Donald Trump, election, gun control, Hilary Clinton, politics, prisons, USA]
 ---
 
 Back in 2016, I published [a blog post](https://pastebin.com/bxELUHE0)<sup>1</sup> about the major election results for my state and country (California, USA). While I probably agree with most of my feelings at the time, I know for a fact that I made some bad choices with my votes, and an invalid hot take. I want to revisit this, and respond to it with a little more knowledge and hindsight.

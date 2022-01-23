@@ -4,8 +4,7 @@ date: 2020-07-09 21:36:00 -0800
 modified: 
 permalink: /everything-is-okay/
 category: Art
-blags: [experimental, Factorio, game, music]
-tags: writing/blog/published
+tags: [experimental, Factorio, game, music]
 ---
 
 A while back I produced a work of Modern Art with the software suite known as Factorio. This only needed _minor_ editing but I was a very lazy girl. Today, I bring you… **Everything Is Okay**, a custom alarm to let you know that your world isn’t ending.

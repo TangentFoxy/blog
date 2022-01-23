@@ -4,8 +4,7 @@ date: 2019-02-15 00:53:00 -0800
 modified: 
 permalink: /switches-suck/
 category: Programming
-blags: [Lua, programming style, programming tips, tips]
-tags: writing/blog/published
+tags: [Lua, programming style, programming tips, tips]
 ---
 
 I don't like switch statements, in any language. They seem unnecessarily verbose and error-prone, in fact I forgot the break statements in my example below on the first draft. Most of the time, you _don't_ want the fall-through feature, but you have to remember that extra word for each case to prevent that.

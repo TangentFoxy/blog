@@ -4,8 +4,7 @@ date: 2022-01-19 16:24:00 -0800
 modified: 2022-01-22 12:00:59 -0700
 permalink: /is-fluoride-dangerous/
 category: Science
-blags: [conspiracies, education, health, medicine, risks, sanitation, skeletal]
-tags: writing/blog/published
+tags: [conspiracies, education, health, medicine, risks, sanitation, skeletal]
 ---
 
 **Basically, no.** (Updated 2022-01-20: Additional sources, footnotes; minor corrections/edits.)

@@ -4,8 +4,7 @@ date: 2020-07-29 01:26:00 -0800
 modified: 2022-01-23 00:20:00 -0700
 permalink: /generating-terrestrial-planets-pt-1/
 category: Programming
-blags: [planets, procedural generation, space game]
-tags: writing/blog/published
+tags: [planets, procedural generation, space game]
 ---
 
 This is related to [Semi-Empirical Stellar Equations](https://blog.tangentfox.com/semi-empirical-stellar-equations/). I have had some questions easily answered, and others which are difficult or impossible to get the kind of accuracy I want.

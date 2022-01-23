@@ -4,8 +4,7 @@ date: 2019-05-11 13:26:00 -0800
 modified: 
 permalink: /backup-solutions/
 category: Administration
-blags: [backups, data storage, encryption, software analysis]
-tags: writing/blog/published
+tags: [backups, data storage, encryption, software analysis]
 ---
 
 The following is current as of May 2019:

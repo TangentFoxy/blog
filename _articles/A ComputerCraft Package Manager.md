@@ -4,8 +4,7 @@ date: 2020-01-20 23:45:00 -0800
 modified: 
 permalink: /cc-pkg-a-computercraft-package-manager/
 category: Programming
-blags: [ComputerCraft, installer, Lua, Minecraft, package management]
-tags: writing/blog/published
+tags: [ComputerCraft, installer, Lua, Minecraft, package management]
 ---
 
 (The latest information and a quick reference is located [here](https://blog.tangentfox.com/cc-pkg/).)

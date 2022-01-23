@@ -4,8 +4,7 @@ date: 2019-04-23 02:20:00 -0800
 modified: 2022-01-22 12:00:59 -0700
 permalink: /a-journey-into-lambda-calculus/
 category: Programming
-blags: [explained, maths, programming language, studying]
-tags: writing/blog/published
+tags: [explained, maths, programming language, studying]
 ---
 
 I'm playing around in [Minetest](https://www.minetest.net/), and I have an idea. In order to execute this idea, I'm going to need a simple programming language. Asking Google… [_implementing a simple programming language_](https://www.google.com/search?q=implementing+a+simple+programming+language)…

@@ -1,11 +1,10 @@
 ---
 title: The Great American Corruption (Glitch Art)
 date: 2021-11-15 19:43:00 -0800
-modified:
+modified: 
 permalink: /the-great-american-corruption-glitch-art/
 category: Art
-blags: [glitch, NASCAR]
-tags: writing/blog/published
+tags: [glitch, NASCAR]
 ---
 
 I recently obtained a copy of DALE, which is a series of DVDs about Dale Earnhardt's career in NASCAR. In order to keep a digital version of it for when the original is inevitably gone, I took photos of the inserts that came with it, cropping them in GIMP to just the documents. GIMP didn't like this for two of the images, and for some reason, corrupted the files in interesting ways.
