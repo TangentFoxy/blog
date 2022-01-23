@@ -2,6 +2,8 @@
 layout: post
 title: This post isn't real
 date: 2022-01-22 12:12:12 -0700
+modified:
+permalink: /unreal/
 category: Fake
 tags: [test, the, second]
 aliases: [This is an Obsidian feature]
