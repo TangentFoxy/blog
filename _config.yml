@@ -43,6 +43,7 @@ permalink: /:title/
 
 collections:
   articles:
+    layout: post
     output: true
   pages:
     output: true
