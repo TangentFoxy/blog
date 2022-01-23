@@ -11,7 +11,7 @@ avatar: https://avatars.githubusercontent.com/u/15093567?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rose@tangentfox.com
   facebook:
   flickr:
   github: TangentFoxy
@@ -40,6 +40,11 @@ url: https://TangentFoxy.github.io/blog
 baseurl: "/blog"
 
 permalink: /:title/
+
+collections:
+  pages:
+    output: true
+    sort_by: order
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
