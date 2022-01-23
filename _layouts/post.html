@@ -11,6 +11,7 @@ layout: default
 
   <div class="date">
     {{ page.date | date: "%Y-%m-%d" }}{% if page.modified %} (Updated: {{ page.modified | date: "%Y-%m-%d" }}){% endif %}
+    {% if page.category %} in {{ page.category }}{% endif %}
   </div>
 
   {% include disqus.html %}

@@ -42,6 +42,8 @@ baseurl: "/blog"
 permalink: /:title/
 
 collections:
+  articles:
+    output: true
   pages:
     output: true
     sort_by: order
