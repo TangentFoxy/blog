@@ -1,5 +1,5 @@
 ---
-title: cc-pkg: A ComputerCraft Package Manager
+title: "cc-pkg: A ComputerCraft Package Manager"
 date: 2020-01-20 23:45:00 -0800
 modified: 
 permalink: /cc-pkg-a-computercraft-package-manager/
