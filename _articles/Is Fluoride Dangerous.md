@@ -27,7 +27,7 @@ Ironically, the worst case data presented is that fluoride is not dangerous to t
 
 This is a difficult question to answer, and the average person does not need to worry about it. **If you have poor kidney function, you should probably talk to a doctor about it.** It is also more likely to affect you if you have a calcium or vitamin D deficiency<sup>5</sup>.
 
-Most studies I looked at are of populations with medical problems that leave them susceptible to fluorosis. The lowest consumption I can _possibly_ link to the average person developing any kind or amount of fluorosis is 10mg/day every day for 6 months<sup>4, 15</sup>, and this estimate is based on the most rapid onset fluorosis study I could find combined with a more reasonable estimate for the magnitude of consumption required6.
+Most studies I looked at are of populations with medical problems that leave them susceptible to fluorosis. The lowest consumption I can _possibly_ link to the average person developing any kind or amount of fluorosis is 10mg/day every day for 6 months<sup>4, 15</sup>, and this estimate is based on the most rapid onset fluorosis study I could find combined with a more reasonable estimate for the magnitude of consumption required<sup>6</sup>.
 
 In order to consume 10mg/day of fluoride, one would need to drink 8 liters of highly fluoridated water<sup>7, 14</sup>, or eat 4 liters of raisins<sup>8, 17</sup>, or eat around 3-5 times as much maximally fluoridated toothpaste as should be used per day<sup>9</sup>… _And you would have to do these every day for 6 months or longer_.
 
