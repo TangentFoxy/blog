@@ -1,6 +1,6 @@
 ---
 title: Lost Summoner (Drabble)
-date: 2020-02-19 HH:MM:00 -0800
+date: 2020-02-19 17:00:00 -0800
 modified: 
 permalink: /lost-summoner/
 category: Fiction
