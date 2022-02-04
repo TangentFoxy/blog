@@ -1,7 +1,7 @@
 ---
 title: Lost Summoner (Drabble)
 date: 2020-02-19 17:00:00 -0800
-modified: 
+modified:
 permalink: /lost-summoner/
 category: Fiction
 tags: [bargain, drabble, dragon, fantasy, summoner]

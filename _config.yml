@@ -42,9 +42,9 @@ baseurl: "/blog"
 permalink: /:title/
 
 collections:
-  articles:
-    layout: post
-    output: true
+  # articles:
+  #   layout: post
+  #   output: true
   pages:
     output: true
     sort_by: order
