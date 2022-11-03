@@ -4,7 +4,9 @@ date: 2020-02-09 19:30:00 -0800
 modified: 2022-01-22 00:24:00 -0700
 permalink: /semi-empirical-stellar-equations/
 category: Programming
-tags: [classification, data, maths, procedural generation, space game]
+tags: ["classification", "data", "maths", "procedural generation", "space game"]
+references:
+  spreadsheet: "[Stellar Relationships](https://docs.google.com/spreadsheets/d/1gB5ChkJ-wvrDs9G0k5N3LV4CFlzC0aPhls_6zpnlXwU/edit)"
 ---
 
 I've spent a lot of time trying to answer certain questions in astronomy, where I just want a rough approximation for the purpose of a simulation, and don't need an exact answer. These are some of the equations I've come up with.
